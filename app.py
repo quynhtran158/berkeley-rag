@@ -54,7 +54,7 @@ with gr.Blocks(title="The Unofficial Berkeley CS Guide") as demo:
         ### A RAG system over student-generated knowledge about UC Berkeley CS courses, campus life, housing, and more.
 
         Ask any question about professors, courses, exams, dining, housing, internships, or mental health resources.
-        Answers are grounded in real student reviews and Reddit posts — not the university's official website.
+        Answers are grounded in real student reviews and Reddit posts and other sources (not offical guide from UC Berkeley).
         """
     )
 
