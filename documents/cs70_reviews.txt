@@ -1,0 +1,26 @@
+Source: Rate My Professors + Reddit r/berkeley - CS70 Discrete Math and Probability, UC Berkeley
+URL: https://www.ratemyprofessors.com/cs70-berkeley
+
+CS70 is the most commonly "I wish someone told me this" course for CS majors at Berkeley.
+
+Review 1 - Prof. Satish Rao (Quality: 4/5, Difficulty: 5/5):
+Rao is brilliant but his lectures are extremely dense. He proves everything from first principles, which is intellectually satisfying but hard to follow in real time. Bring a pen and paper — you will fall behind trying to read slides on a laptop. His exams are proof-based, with no partial credit unless your proof structure is clearly right. Average on midterms: around 50-60%. The curve is aggressive — median usually curves to about B+. If you go to office hours and ask good questions, he remembers you and gives more time.
+
+Review 2 - Prof. Rao (Quality: 4/5, Difficulty: 5/5):
+Key insight for Rao's CS70: the homework is graded on effort, not correctness. You get full credit as long as you attempt every problem seriously. This means: don't spend 4 hours getting a perfect proof for problem 1 if you haven't started problem 5 yet. The exams are different — they are graded harshly. Study tip: learn to write proofs clearly even if you're not sure they're right. A clean, structured wrong proof gets more credit than a jumbled correct attempt.
+
+Review 3 - Prof. Babak Ayazifar (Quality: 5/5, Difficulty: 4/5):
+Ayazifar's CS70 is more beginner-friendly. He spends more time motivating concepts before proving them. His "conversation-style" lectures feel casual but cover everything needed for exams. He's also more responsive on course forums. Slightly easier exams than Rao's version but same material. The probability portion (second half of the semester) is where most people fall apart — don't let up.
+
+Reddit thread (r/berkeley, 2024):
+"Passed CS70 with an A after failing the first midterm. Here's what changed: I stopped trying to memorize proofs and started understanding what I was trying to prove and WHY the approach works. For number theory: gcd algorithms, modular arithmetic, Fermat's little theorem. For probability: expected value, variance, Markov/Chebyshev inequalities are exam staples. For graphs: know connectivity, bipartiteness, and planarity cold. The homeworks are weekly — do them the day they're released, not the night before."
+
+Reddit thread (r/berkeley, 2023):
+"CS70 resources that actually helped: 1) The course notes (eecs70.org) are excellent — better than any textbook. 2) Past exams with solutions. 3) The weekly 'vitamin' quizzes are great practice. 4) Study groups are non-optional for this class. 5) Don't skip the probability half — even if you're doing well in the discrete math half, probability is a different skill."
+
+Course info:
+- Typical grade distribution: 20-25% A, 30% B, 25% C, 10-15% D/F
+- Exams: 2 midterms + comprehensive final
+- Homework: Weekly, effort-graded
+- Difficulty: Harder than most sophomore EECS courses
+- Prerequisite strongly recommended: CS61A or equivalent programming background

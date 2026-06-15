@@ -1,0 +1,20 @@
+Source: Rate My Professors + Reddit r/berkeley - Josh Hug, CS61B Data Structures, UC Berkeley
+URL: https://www.ratemyprofessors.com/professor/josh-hug-cs61b
+
+Review 1 (Quality: 5/5, Difficulty: 4/5):
+Josh Hug is hands down one of the best professors I've had at Berkeley. He genuinely cares about student learning. His lectures are clearly structured, use lots of visualizations, and he checks in frequently to make sure the class is following. He maintains the textbook (cs61b.com) personally and it's excellent. Compared to Hilfinger, Hug's version is more scaffolded — you get more guidance on projects. Exam difficulty is still significant but averages are 60-70% rather than 50-60%.
+
+Review 2 (Quality: 5/5, Difficulty: 4/5):
+Hug's office hours are well-organized — he uses a queue system. Wait times are still long (up to an hour) near deadlines. The key difference from Hilfinger: Hug provides more starter code and step-by-step spec guidance on projects. The Gitlet project is slightly easier with Hug because the spec is clearer. His exams test the same concepts but are slightly more straightforward in wording. He also posts exam prep materials a week before each exam.
+
+Review 3 (Quality: 5/5, Difficulty: 3/5):
+Took Hug's section during a semester when he was actively updating course materials. New visualization tools he built (specifically for trees and graph traversals) were incredibly helpful. He also does "meta-cognitive" exercises where he teaches you HOW to study CS, not just the content. Highly recommend going to his office hours even when you're not stuck — he gives great advice on how to approach hard problems.
+
+Review 4 (Quality: 4/5, Difficulty: 4/5):
+Honest comparison: Hug vs Hilfinger. Hug is better for most students. Hilfinger is better if you want maximum rigor and already have programming experience. Hug's grading is more forgiving — he's more likely to adjust points if you explain your reasoning. His TAs are also better trained. Both professors cover the same material: asymptotic analysis, trees, graphs, hashing, sorting. Hug's version is just better scaffolded. If you're undecided, take Hug.
+
+Reddit post (r/berkeley, 2023):
+"Just finished Hug's 61B. My honest take: the projects are still hard but the difference is that when you're stuck, the spec actually tells you what to do. Hilfinger's Gitlet spec is famously cryptic. Hug's spec for the same project is like 3x longer and has examples. Also Hug actually responds to Ed posts himself, which is rare for a professor of a 1000-person class."
+
+Reddit post (r/berkeley, 2024):
+"Tips for Hug's 61B: 1) Do all the lab exercises — they appear on exams. 2) The textbook he wrote is the best CS textbook I've read, actually read it. 3) Don't skip the optional practice problems — 'optional' means 'exam-relevant'. 4) Gitlet is worth 25% of your grade, start it two weeks early. 5) He drops one homework grade."

@@ -1,0 +1,29 @@
+Source: Rate My Professors + Reddit r/berkeley - CS170 Efficient Algorithms and Intractable Problems, UC Berkeley
+URL: https://www.ratemyprofessors.com/cs170-berkeley
+
+CS170 is the required algorithms course for the CS major. It is widely considered one of the two hardest required courses (alongside CS162).
+
+Review 1 - Prof. Prasad Raghavendra (Quality: 4/5, Difficulty: 5/5):
+Raghavendra is a top algorithms researcher and his lectures reflect that — they're rigorous, fast-paced, and assume comfort with proofs. The course follows the DPV textbook (Dasgupta, Papadimitriou, Vazirani — free online). Exam style: "prove that algorithm X is correct" and "derive the running time of algorithm Y." Partial credit exists but requires a clear proof structure. Average on midterms: 50-60%. The curve is generous but the class is still hard.
+
+Review 2 - Prof. Sanjam Garg (Quality: 5/5, Difficulty: 5/5):
+Garg is excellent at explaining the intuition behind algorithms before diving into proofs. His version of the course emphasizes "why does this work" over "how to implement it." This is the right approach for an algorithms course but requires you to think abstractly. Key topics where his explanation is especially good: network flow (he uses real examples), linear programming (one of the clearest intro treatments), NP-completeness (he explains reductions visually first).
+
+Review 3 (anonymous, 2024):
+"What to study for CS170 exams:
+1. Divide and conquer + recurrences (Master theorem — memorize it)
+2. Graph algorithms: DFS, BFS, Dijkstra (positive weights), Bellman-Ford (negative weights), Floyd-Warshall (all pairs), Prim/Kruskal (MST)
+3. Greedy algorithms and proof of correctness (exchange argument, cut property)
+4. Dynamic programming: know how to define subproblems, write recurrences, and analyze time/space
+5. Network flow: max-flow min-cut theorem, Ford-Fulkerson, bipartite matching
+6. Linear programming: feasibility, duality
+7. NP-completeness: what it means, how to do reductions, the canonical NP-complete problems (3-SAT, Vertex Cover, Independent Set, Clique, etc.)
+8. Approximation algorithms: what they are, examples"
+
+Review 4 (Quality: 3/5, Difficulty: 5/5):
+"Don't take CS170 with CS162. I tried. My GPA suffered significantly. Both courses require more than 20 hours per week outside class during heavy weeks. The CS170 homework is weekly, group-based (groups of 3), and substantial — each problem set takes 10-15 group hours. Exams are individual. The homeworks prepare you for exams but the exams are harder than homeworks."
+
+Reddit post (r/berkeley, 2023):
+"CS170 homework policy: You collaborate in groups of 3, write up solutions individually. You may NOT copy another group's writeup word for word. Solutions posted to Chegg/CourseHero after the deadline — don't do this, the academic honesty consequences at Berkeley CS are severe. Three academic dishonesty cases in the major → automatic dismissal.
+
+My advice: 1) Do practice problems from the DPV textbook, not just course homeworks. 2) Go to section — the practice problems there preview exam content. 3) For dynamic programming, practice writing the subproblem definition first, then the recurrence, then worry about the complexity. 4) The final is cumulative — everything from week 1 is fair game."

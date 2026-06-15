@@ -1,0 +1,26 @@
+Source: Rate My Professors + Reddit r/berkeley - CS186 Introduction to Database Systems, UC Berkeley
+URL: https://www.ratemyprofessors.com/cs186-berkeley
+
+Review 1 - Prof. Alvin Cheung (Quality: 5/5, Difficulty: 4/5):
+CS186 is one of the most practically useful CS courses at Berkeley. Alvin Cheung teaches it in a way that connects theory to what real database engineers actually care about. The projects are in Java and involve building components of a relational database from scratch: B+ tree index, buffer manager, query optimizer. The RookieDB project series is well-designed — each project builds on the previous one. Cheung is responsive on Ed (the course forum) and his lectures are recorded.
+
+Review 2 - Prof. Alvin Cheung (Quality: 4/5, Difficulty: 4/5):
+The project I didn't expect to enjoy: implementing a query optimizer. The dynamic programming approach to join ordering is genuinely cool once you get it. Exam content: SQL (you must be comfortable writing complex queries), relational algebra, B+ trees (insertions, deletions, splits — practice these by hand), buffer management (LRU, MRU, CLOCK algorithms), two-phase locking and transaction isolation, and recovery (ARIES algorithm). ARIES is exam-tested every semester — know it cold. Exams average around 60-65%.
+
+Review 3 (anonymous, 2024):
+"CS186 is significantly easier than CS162 or CS189 but still requires work. The projects have good autograders but the test cases don't cover all edge cases — write your own. The SQL homeworks are straightforward if you've used SQL before. If you haven't, spend a week on a SQL tutorial before the semester starts. The query optimization content in weeks 8-10 is the hardest conceptually. B+ trees are heavily tested — practice 20-30 tree modification problems by hand before the midterm."
+
+Review 4 - Prof. Peyrin Kao (Quality: 5/5, Difficulty: 3/5):
+Peyrin Kao's CS186 is the most student-friendly version. He has put enormous effort into course infrastructure — the autograder gives detailed feedback, office hours are well-organized, and the Ed forum is one of the most helpful I've seen in any Berkeley CS course. His lectures are energetic and well-paced. If you're choosing between semesters, look for Kao's. He also gives more partial credit on exams than most CS professors.
+
+Reddit post (r/berkeley, 2023):
+"What to know going into CS186: 1) Disk I/O cost is the primary metric in database systems — know why we care about number of page reads/writes, not just CPU time. 2) B+ trees: the order (d) determines max/min capacity, not 'page size'. 3) Two-phase locking: understand shared vs exclusive locks, the upgrade protocol, and when deadlock can occur. 4) ARIES: the three phases are Analysis, Redo, Undo — know the log record types (UPDATE, COMMIT, ABORT, CLR) and when each is written. 5) The project due dates stack — don't fall behind in week 6."
+
+Key exam topics in CS186:
+- SQL: SELECT, JOIN (inner/outer/cross), GROUP BY, HAVING, subqueries, window functions
+- Relational algebra: selection, projection, join, union, difference
+- B+ tree indexing: search, insertion, deletion, order d
+- Buffer management: replacement policies (LRU, MRU, CLOCK)
+- Query optimization: cost estimation, join ordering, access paths
+- Transaction management: ACID properties, two-phase locking, deadlock detection
+- Recovery: ARIES protocol, write-ahead logging (WAL)

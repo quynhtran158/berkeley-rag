@@ -1,0 +1,30 @@
+Source: Rate My Professors + Reddit r/berkeley - CS189 Introduction to Machine Learning, UC Berkeley
+URL: https://www.ratemyprofessors.com/cs189-berkeley
+
+CS189 is the upper-division ML course at Berkeley. It is math-heavy and notorious for being one of the hardest undergrad CS courses.
+
+Review 1 - Prof. Jitendra Malik (Quality: 4/5, Difficulty: 5/5):
+Malik is a world-class researcher (he invented the normalized cut for image segmentation) and it shows — his lectures are dense with real research insights. He does not teach to the exam; he teaches the field. His exams are notoriously hard: expect the average to be 40-55 out of 100. The curve is generous — you can pass with a raw score in the 40s. Homeworks (hwx sets) are weekly and often involve proofs and coding. Start early. The coding projects use numpy, scikit-learn, and require understanding the math behind the implementation.
+
+Review 2 - Prof. Jonathan Shewchuk (Quality: 5/5, Difficulty: 5/5):
+Shewchuk is one of the best lecture-givers at Berkeley. He derives everything on the board, step by step, and makes linear algebra feel intuitive. His notes (available at cs.berkeley.edu/~jrs/papers) are legendary — students from other universities use them. Exam format: multiple choice AND free response. Multiple choice is tricky — wrong answers are designed to catch common misconceptions. Free response is proof-based. Tip: understand eigenvectors and the kernel trick deeply — they appear on every exam.
+
+Review 3 (anonymous, 2023):
+Prerequisites for CS189 that you actually need (not just the listed ones): solid linear algebra (MATH 54 is not enough — you need to be fluent), probability (EECS126 or equivalent), and Python with numpy. If you can't implement gradient descent from scratch, you're not ready. The first four weeks are: regression, classification, Gaussians, and dimensionality reduction. Weeks 5-8 are neural networks, SVMs, and kernels. Weeks 9-12 are decision trees, boosting, and clustering.
+
+Review 4 (Quality: 3/5, Difficulty: 5/5):
+I took this course underprepared and barely survived. The assumption is that you've had real linear algebra (not just the intro course). If you don't understand how SVD decomposes a matrix, study that before week 1. The homework is autograded AND manually graded — the automated part checks code, the manual part checks derivations. Derivation partial credit exists but is stingy. Study groups are mandatory survival tools.
+
+Reddit post (r/berkeley, 2024):
+"CS189 tips that aren't obvious: 1) The 'conceptual questions' at the start of each homework are worth 20% of the homework grade and take 20 minutes. Do them first. 2) Exam average is around 55% but the curve is strong — figure out what score puts you in the top 30% of the class and aim for that. 3) The TA sections (GSI sections) vary wildly in quality — find which TAs are good on Piazza and go to their office hours. 4) Linear algebra review in week 1 is NOT optional even if you got an A in MATH 54. 5) Start projects the day they're released."
+
+Key topics covered in CS189:
+- Linear regression (OLS, ridge, LASSO)
+- Logistic regression and classification
+- Gaussian distributions and maximum likelihood estimation
+- Principal Component Analysis (PCA)
+- Support Vector Machines (SVMs) and kernels
+- Neural networks and backpropagation
+- Decision trees, random forests, boosting
+- k-Nearest Neighbors and clustering (k-means, GMMs)
+- Bias-variance tradeoff

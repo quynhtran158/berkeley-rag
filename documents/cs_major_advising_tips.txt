@@ -1,0 +1,37 @@
+Source: Reddit r/berkeley + unofficial Berkeley CS wiki
+URL: https://www.reddit.com/r/berkeley/wiki/cs_major_tips
+
+Title: "Everything the official CS advising page doesn't tell you" (compiled from r/berkeley)
+
+DECLARING THE CS MAJOR:
+The official line: "Complete CS61A, CS61B, CS70, and MATH 53 or MATH 54 with a GPA of 3.3 or higher in each."
+The real situation: The declaration process is competitive. You must apply, not just meet criteria. Applications open twice yearly (November for spring, April for fall). If you don't get in the first time, you can retry. The unofficial cutoff GPA has drifted above 3.3 in recent years — some semesters have had effective cutoffs closer to 3.5 due to high applicant volume. Transfer students have a separate (and harder) process.
+
+COURSE PLANNING (CS Lower Divs):
+- CS61A → CS61B → CS70: The mandatory chain. Don't skip or reorder. You need 61A before 61B, and both are recommended before 70.
+- EECS16A and 16B: Required for EECS major, optional for CS major. If you're considering switching to EECS (which offers more flexibility sometimes), take 16A/16B. They're also genuinely useful even for pure CS students.
+- Math requirements: MATH 1A and 1B (calculus). MATH 54 (linear algebra + DEs). CS70 also serves as your discrete math requirement.
+
+UPPER DIV PLANNING TIPS FROM STUDENTS:
+"Don't try to take CS162 and CS189 in the same semester. That's the most commonly repeated piece of advice on this subreddit and it's correct. Both require 15-20+ hours per week outside class. Taking both simultaneously is a grade-destroyer."
+
+"CS188 (AI) is the most accessible upper div. Good workload, interesting projects, no horrifying curve. Great entry point into upper div CS."
+
+"CS161 (Security) is a hidden gem. Very applicable to real jobs. Not as hard as 162. Projects are fun — CTF-style challenges. Take it."
+
+"CS170 (Algorithms) is required for most concentrations and it's very hard. Take it the semester you have the most bandwidth. Do NOT take it with 162 or 189."
+
+REGISTRATION TIPS:
+- Phase 1 (upper class students) fills up popular courses immediately. If you're a sophomore or freshman, you may not get into CS61B until Phase 2.
+- Popular upper div sections (CS189, CS161, CS188) fill in seconds during Phase 1. Use CalCentral.berkeley.edu and have your plan ready.
+- Waitlists: CS courses have long waitlists (50-100 people is normal). Attend the first lecture even if waitlisted — instructors often announce how many spots will open.
+- Enrollment appointment times: Earlier is better. Higher unit count → earlier enrollment appointment. This is why double majors or students with AP/transfer credit register earlier.
+
+INTERNSHIP/JOB TIP (from students, not advisors):
+"CS department doesn't prepare you for SWE interviews. That's your job. Start LeetCode in sophomore year. The 'hard' questions at FAANG are basically CS170 (algorithms) problems applied under time pressure. Taking CS170 seriously helps more than any prep course."
+
+ACADEMIC RESOURCES FEW PEOPLE USE:
+- Student Learning Center (SLC): Free tutoring, drop-in hours. Underutilized for CS courses.
+- CSM (Computer Science Mentors): Student-run tutoring, very helpful for 61A/61B/70. Apply early — spots fill up.
+- EECS department advisor (not the same as CDSS advisor): Can approve exceptions to major requirements that the standard advisor cannot.
+- Late drop vs. medical withdrawal: If you're failing a course due to illness or emergency, medical withdrawal is grade-neutral. Standard late drop (after week 5) results in a W on transcript. Talk to the Dean of Students office.

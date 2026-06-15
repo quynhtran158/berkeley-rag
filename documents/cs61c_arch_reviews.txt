@@ -1,0 +1,25 @@
+Source: Rate My Professors + Reddit r/berkeley - CS61C Great Ideas in Computer Architecture, UC Berkeley
+URL: https://www.ratemyprofessors.com/cs61c-berkeley
+
+Review 1 - Prof. Dan Garcia (Quality: 5/5, Difficulty: 3/5):
+Dan Garcia is beloved by students. His "Beauty and Joy of Computing" approach carries into 61C — he makes computer architecture genuinely fun. His lectures include physical demonstrations (he's shown up in costume), are extremely well-organized, and the videos posted online are some of the best recorded lectures for any CS course. 61C is also the most meme-able Berkeley CS course — "Go Bears" and Dan Garcia have a loyal following. He teaches with energy and genuine enthusiasm for every topic.
+
+Review 2 - Prof. Dan Garcia (Quality: 5/5, Difficulty: 3/5):
+Content of CS61C: RISC-V assembly (first 4 weeks), C and memory management (weeks 5-7), digital logic (weeks 8-9), processor design (weeks 10-11), caches and virtual memory (weeks 12-13), parallelism (weeks 14-15). The projects: assembly in RISC-V (fun once you get the mindset), a neural net in C (impressive), and a RISC-V CPU in Logisim (hard but satisfying). The most important topic for exams: caches. Cache problems appear on every midterm and final. Practice hit/miss sequences with different replacement policies.
+
+Review 3 - Prof. Sophia Shao (Quality: 4/5, Difficulty: 4/5):
+Sophia Shao's version is more research-oriented — she discusses modern processor design in the context of current hardware (NVIDIA GPUs, Apple M-series chips). More rigorous than Garcia's version in terms of exam difficulty. Exam averages are 5-10 points lower. The cache problems she writes are notoriously tricky. Recommended for students who want a deeper understanding and are comfortable with difficulty.
+
+Review 4 (anonymous, 2024):
+"Tips for 61C: 1) C programming is assumed knowledge — do a C refresher before the semester if your 61B was all Java. Specifically: pointers, pointer arithmetic, malloc/free, and stack vs. heap memory. 2) The RISC-V project is graded on correctness, not style — your code doesn't need to be clean, it needs to produce correct output. 3) For caches: practice problems on the CS61C practice exams specifically — the phrasing style is unique. 4) Logisim (for the CPU project) has a learning curve. Start it early and work in small pieces."
+
+Reddit post (r/berkeley, 2024):
+"Dan Garcia office hours are first-come-first-served and very crowded near exams. TAs have queue-based office hours (oh.cs61c.org) — much better system. The course has a large number of TAs relative to enrollment, so wait times are manageable (15-25 minutes usually). Reading the textbook (Patterson and Hennessy) is optional — the lecture slides are self-contained. However, the textbook exercises are good exam practice."
+
+Course structure:
+- Exams: 2 midterms + final (in-person, closed book)
+- Projects: 3 projects (individual + group options)
+- Labs: Weekly, autograded
+- Homework: Conceptual questions, not autograded
+- Curve: Yes, typically generous
+- Exam average: 65-70%

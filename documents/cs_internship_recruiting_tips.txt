@@ -1,0 +1,42 @@
+Source: Reddit r/berkeley + r/cscareerquestions + anonymous student blogs - CS Internship Recruiting Guide for Berkeley Students
+URL: https://www.reddit.com/r/berkeley/comments/internship_recruiting_guide
+
+POST: "How Berkeley CS recruiting actually works — what the career center doesn't tell you" (2024)
+
+THE TIMELINE:
+Big Tech (FAANG/MAANG) internship recruiting now starts absurdly early. Amazon and Google open applications for the following summer in August-September of the current year. This means if you want a Google internship the summer after your sophomore year, you should be applying in September of sophomore year — while school just started. This is not intuitive and catches many students off guard.
+
+Specific timelines:
+- Jane Street / Two Sigma / Citadel (finance/quant): Applications open in July-August. These companies move extremely fast. If you miss the window, that's it.
+- Amazon: Applications open September, OAs (online assessments) go out October-November, offers by December.
+- Google / Meta: Applications October-November, OAs/interviews December-January.
+- Microsoft / Apple: Applications October-December, interviews January-March.
+- Startups: Rolling, year-round. Often more flexible on timeline and preparation.
+- Return offers (if you had a previous internship): Often extended 30-60 days after the internship ends.
+
+WHAT ACTUALLY GETS YOU AN INTERVIEW:
+1. Referrals: A referral from a Berkeley alum or current employee dramatically increases resume visibility. 60-70% of successful Berkeley CS intern candidates report using referrals. LinkedIn: search "[company] UC Berkeley" and cold message.
+2. Resume: 1 page, quantified impact ("Reduced page load time by 40% using Redis caching"). Projects should have GitHub links. No objective statement — replace with skills section.
+3. GPA: Matters more than people claim. Sub-3.0 GPA → most big tech companies screen you out automatically. 3.5+ → rarely mentioned. The range that actually matters: 3.0-3.5.
+4. Clubs: Big Tech companies recruit heavily from specific clubs: Machine Learning @ Berkeley (ML@B), SkyDeck ventures, ESPM, HKN (EECS honor society). Being active in these is a real recruiting advantage.
+
+TECHNICAL INTERVIEW PREP:
+"Start LeetCode the summer before your target recruiting season. Do 100+ problems across Easy and Medium. Hards are overrated until you're targeting top firms. The most common interview question categories: Two Pointers, Sliding Window, Binary Search, Trees/Graphs (BFS/DFS), Dynamic Programming. DP is the one people struggle with most — practice it separately."
+
+"Behavioral interviews are real and matter. Amazon uses Leadership Principles. Prepare 5-7 stories using STAR format. Common questions: Tell me about a time you disagreed with a teammate, a time you failed, a time you delivered under a deadline. Have numbers ready."
+
+"System design interviews (for full-time, sometimes internship at senior companies): Practice on Educative.io or Grokking. Key topics: load balancing, caching, databases (SQL vs NoSQL), message queues, CDNs. Don't memorize answers — practice explaining tradeoffs."
+
+CLUBS THAT DIRECTLY LEAD TO INTERNSHIPS:
+- Machine Learning @ Berkeley (ML@B): Selective but directly connects to AI/ML internships. Join in freshman year.
+- SkyDeck (startup accelerator): Student fellows program. Great for startup recruiting.
+- EECS HKN: Honor society, requires invitation. Good for networking.
+- CS KidneyStones (humor): Joke, do not join. (This is a test to see if you're paying attention.)
+- Blueprint (CS for nonprofits): Build real projects, great portfolio work.
+- Codebase: Software consulting club, pairs teams with real clients.
+
+SALARY CONTEXT (2024 internship, Bay Area):
+- FAANG: $8,000-12,000/month + housing stipend
+- Mid-tier (Stripe, Airbnb, Databricks): $6,000-8,000/month
+- Startups: $4,000-7,000/month (variable)
+- Research internships (academic labs): Often unpaid or stipend-based ($1,500-3,000/month)

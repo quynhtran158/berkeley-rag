@@ -1,0 +1,53 @@
+Source: Reddit r/berkeley + anonymous forum posts - Off-Campus Housing Guide for UC Berkeley Students
+URL: https://www.reddit.com/r/berkeley/comments/housing_guide_2024
+
+POST: "Comprehensive off-campus housing guide from a senior" (r/berkeley, 2024)
+
+I've lived in 3 different places near campus over 4 years. Here's what you need to know.
+
+NEIGHBORHOODS:
+Southside (Telegraph Ave area, south of campus):
+Pros: 5-10 minute walk to most engineering buildings (Soda Hall, Cory Hall). Tons of food options. Social/lively vibe. Many apartments specifically marketed to students.
+Cons: Loud on weekends. Some blocks have safety issues (check the block, not just the neighborhood). Parking near-impossible. Most expensive per square foot.
+Typical rent (2024): $1,400-1,800/person in a shared apartment.
+
+Northside (Hearst Ave area, north of campus):
+Pros: Quieter, better for studying. Foothill dining hall nearby. Closer to campus when your classes are in the northern buildings (Evans Hall, Barrows). Lower crime than Southside on average.
+Cons: Further from Telegraph social scene and nightlife. Fewer food options. Some apartments are very old and have maintenance issues.
+Typical rent (2024): $1,200-1,600/person shared.
+
+Downtown Berkeley (BART-adjacent):
+Pros: Access to BART. More professional housing stock. Quieter. Occasionally cheaper.
+Cons: 15-20 minute walk to campus (annoying with a bike, fine if you have one). Less "campus life" feel.
+Typical rent: $1,300-1,700/person.
+
+Dwight/Elmwood (south of Southside):
+Pros: Quieter than Southside, often newer buildings. Good for those who want residential feel. Some streets are very nice.
+Cons: Further walk or need a bike. Less student community.
+
+SPECIFIC BUILDING REVIEWS:
+"Channing-Bowditch Apartments (Southside): Thin walls, older building but management is responsive. Had a mold issue in the bathroom that was fixed within a week of reporting. Location is perfect — 5 min walk to Soda Hall."
+
+"The Gaia Building (Downtown): Modern, well-maintained, doorman. Expensive ($1,800+/person) but very quiet and professional. Good if you're doing an industry internship while enrolled."
+
+"Willard Park area (Southside): A block that's notably better than the rest of Southside for safety. Residential feel but still close to Telegraph. Look for apartments here specifically."
+
+LEASE TIPS (CRITICAL):
+- Berkeley landlords are required by law to give tenants a copy of the lease and any addendums before signing. Read every addendum — they often contain unusual restrictions.
+- Month-to-month vs. 12-month: 12-month is cheaper per month but dangerous if you study abroad. Negotiate a subletting clause if you might need to leave.
+- Move-in checklists: Document every existing damage with photos before moving in. Send to landlord via email (creates timestamp). This protects your deposit.
+- Berkeley Rent Stabilization Board (RSB): Berkeley has strict rent control. If your landlord tries to raise rent more than the allowed amount, file a complaint with the RSB. Most students don't know this exists.
+- Security deposits: Max is 2 months rent (California law). Must be returned within 21 days of move-out with itemized deductions.
+
+MOLD AND MAINTENANCE ISSUES (real ones reported on Reddit):
+"My apartment near Telegraph had visible mold in the bathroom ceiling that the landlord tried to blame on us. Sent them the move-in photo showing the mold was pre-existing. Got full deposit back."
+
+"Heard from 3 people in the same building on Dwight Way that the heating system breaks every winter and takes 2-3 weeks to fix. Research buildings specifically on r/berkeley before signing."
+
+"Pro tip: search '[building address] reddit' before signing a lease. This subreddit is a goldmine for specific building complaints."
+
+ROOMMATE FINDING RESOURCES:
+- Facebook group: "Berkeley Housing" (large, active)
+- Discord: Berkeley Housing 2024 (yearly servers created by students)  
+- CalRentals.berkeley.edu: Official university off-campus listing site, free
+- Craigslist: Still used, higher scam risk than others

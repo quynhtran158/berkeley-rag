@@ -1,0 +1,24 @@
+Source: Rate My Professors + Reddit r/berkeley - CS162 Operating Systems, UC Berkeley
+URL: https://www.ratemyprofessors.com/cs162-berkeley
+
+Review 1 - Prof. Ion Stoica (Quality: 4/5, Difficulty: 5/5):
+Ion Stoica is the co-founder of Databricks and Anyscale, which tells you something about his credentials but also about how his lectures feel — high-level systems thinking, less handholding on implementation details. CS162 with him covers: processes and threads, synchronization, virtual memory, file systems, networking. The projects (Pintos) are done in groups of 4 and are the most time-consuming projects in the CS major. Pintos is a real operating system written in C that you extend — don't underestimate the debugging time.
+
+Review 2 - Prof. Ion Stoica (Quality: 3/5, Difficulty: 5/5):
+The Pintos projects are 40% of your grade and they are brutal. There are 4 Pintos projects: 1) Threads (implementing a basic scheduler), 2) User programs, 3) Virtual memory, 4) File system. Each one takes 60-100 hours of group work. You WILL have merge conflicts. You WILL debug at 3am. Start every project the day it's released. The design doc (written before coding) is graded and matters — don't skip it. Groups that skip the design doc almost always run out of time.
+
+Review 3 - Prof. John Kubiatowicz (Quality: 5/5, Difficulty: 4/5):
+Kubiatowicz's version is more traditional and lecture-focused. He's been teaching 162 for decades and it shows — the content organization is excellent. His exams are challenging but fair: they test understanding, not memorization. Exam tip: know how address translation works (VA → PA), know the difference between mutex and semaphore (and when each is appropriate), and be able to trace through page fault handling. These appear on almost every exam.
+
+Review 4 (anonymous student blog, 2023):
+"What I learned from CS162: 1) C is painful but unavoidable — brush up on pointers and memory management before the semester. 2) Pintos debugging is different from application debugging — learn to use GDB with QEMU. 3) Deadlock conditions: mutual exclusion, hold-and-wait, no preemption, circular wait. Memorize these — they're on every exam. 4) The networking portion of the course (sockets, TCP/UDP) is covered in the last 3 weeks and is important for the final even though no project covers it."
+
+Reddit post (r/berkeley, 2024):
+"Survived CS162. Things I wish I knew: 1) The group dynamic is everything. Bad group = bad project grade. Have a frank conversation about availability and coding standards in week 1. 2) The design doc is graded by your TA and the feedback affects your implementation — take it seriously. 3) File system project is the hardest one by far. Most groups don't fully pass it. 4) If you're lost on virtual memory concepts, the textbook chapter (OSTEP - Operating Systems: Three Easy Pieces) is excellent and free online. 5) Exam averages are around 65%, curve to B range."
+
+Course grading:
+- 40% Pintos projects (group)
+- 25% Exams (midterm + final)
+- 15% Homework/reading quizzes
+- 10% Design documents
+- 10% Section attendance/participation

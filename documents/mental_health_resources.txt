@@ -1,0 +1,33 @@
+Source: Reddit r/berkeley + unofficial Berkeley student wellness guide
+URL: https://www.reddit.com/r/berkeley/comments/mental_health_resources_guide
+
+POST: "Mental health at Berkeley: the real guide students put together" (r/berkeley, 2024, 1.2k upvotes)
+
+This post exists because the official university mental health page doesn't tell you the actual logistics.
+
+CAPS (Counseling and Psychological Services):
+The official service. Free for enrolled students. The problem: 2-4 week wait time for the first appointment in most semesters. If you're in crisis, do not use CAPS as your emergency option — call the 24/7 crisis line instead (Tang Center: 510-642-9494). For non-emergency ongoing therapy, CAPS is fine but slow to start. Pro tip: Call at 8am when appointments are released — same-day slots disappear within minutes.
+
+TANG CENTER (University Health Services):
+The main student health center. Tang can prescribe psychiatric medications (Adderall, antidepressants, etc.) through their psychiatry department. Wait times for psychiatry: 3-6 weeks. If you need medication and have a prior prescription, ask your home doctor to send a fax to Tang — they will often continue an existing prescription more quickly than starting a new treatment relationship.
+
+NON-CAPS RESOURCES STUDENTS ACTUALLY USE:
+1. Open Computing Facility (OCF) — not for mental health directly, but having a third space is important. Many students use OCF as a quiet work environment when dorms feel claustrophobic.
+2. Berkeley Support Line (peer support, not CAPS): 855-234-5678. Run by student volunteers. Available nights and weekends. Free, anonymous.
+3. Counseling slots through your college: Some colleges (like the College of Letters & Science and CDSS) have embedded counselors. Shorter wait times than CAPS and more specialized.
+4. BearWellBeing website: The university's wellness portal. Has self-guided mental health modules that are surprisingly useful (evidence-based CBT workbooks, mindfulness exercises).
+
+HONEST STUDENT TAKES ON MENTAL HEALTH AT BERKELEY:
+"The imposter syndrome at Berkeley is real. You will sit next to people who seem to understand everything immediately. Some of them actually do. Most of them are as confused as you and hiding it. This is not a helpful environment for your mental health unless you actively build a community."
+
+"I had a breakdown during midterm season sophomore year. What helped: 1) Talking to my professor (they are far more understanding than you expect). 2) Using the late-drop option before week 10. 3) CAPS, even with the wait — I got an appointment in 10 days because I called at 8am. 4) The Student Recovery Network (for alcohol/substance issues) was more helpful than I expected for general stress management."
+
+"You are allowed to take a reduced unit load. Dropping below 12 units affects financial aid if you're on need-based grants — check with the financial aid office before dropping. But if you're drowning, sometimes a B semester at 12 units is better than a failing semester at 16."
+
+STUDY ENVIRONMENT TIPS (related to mental health):
+- Don't study in your room exclusively. Change environments: Main Stacks library, Moffitt Library (24 hours during finals), Engineering Library, or off-campus cafes.
+- Moffitt 24-hour access requires a Cal ID badge and is available during RRR week and finals.
+- Social studying: Some students in r/berkeley organize "study sessions" in the comments. Less lonely than solo studying.
+
+PROFESSOR COMMUNICATION:
+"Almost every Berkeley professor has a clause about accommodations in their syllabus. DSP (Disabled Students' Program) provides formal accommodations (extended time, alternate testing environments) for diagnosed conditions. The process takes 2-3 weeks — start it early. Professors must honor DSP letters. They are not allowed to ask what your disability is."

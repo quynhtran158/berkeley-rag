@@ -1,0 +1,49 @@
+Source: Reddit r/berkeley - CS61A (Structure and Interpretation of Computer Programs) Student Tips
+URL: https://www.reddit.com/r/berkeley/comments/cs61a_survival_guide
+
+Post title: "CS61A survival guide for incoming freshmen" (r/berkeley, 2024)
+
+If you're taking CS61A, here's everything I wish I knew going in:
+
+ABOUT THE COURSE:
+CS61A is the intro CS course at Berkeley, taught primarily by John DeNero (though multiple professors teach it each semester). The course uses Python and focuses on abstraction, recursion, and functional programming concepts. It is NOT a typical intro programming class — it's more theoretical than most people expect. Don't be fooled by the "intro" label.
+
+PROFESSORS:
+- John DeNero: The course creator and gold standard. His lectures are exceptional — recorded and posted online. Even if you're not in his section, watch his recordings. He is known for very clear explanations and genuinely caring about accessibility.
+- Pamela Fox: Great for beginners. More hands-on and supportive. Her office hours are well-attended because she explains things patiently.
+- Other instructors vary — check Rate My Professors before enrolling.
+
+WORKLOAD:
+- Homework: Released weekly, autograded, but the problems are subtle. Never skip the "Just for Fun" problems — they often preview exam content.
+- Labs: In-person or async. Attendance sometimes mandatory. Labs preview the homework.
+- Projects: 4 projects. Hog (simple), Cats (fun), Ants (hard), Scheme (very hard). Scheme interpreter is infamous — start it 2 weeks early minimum.
+- Exams: 2 midterms + final. Midterm 1 covers functions and recursion. Midterm 2 covers OOP and trees. Final is comprehensive.
+
+EXAM TIPS:
+- Berkeley CS exams are not multiple choice. You write code and trace execution by hand.
+- Practice tracing code manually — the "What would Python display" (WWPD) questions are everywhere.
+- Old exams are your best resource: cs61a.org maintains an exam archive.
+- The exam environment is timed Google Forms — you type code directly. Practice typing Python fast.
+
+PROJECT TIPS:
+- Ants is the project most people get stuck on. The OOP structure is complex. Read the spec twice before coding.
+- Scheme: Implement tail calls early — they're built on top of the basic evaluator and you need time to debug.
+- Work with a partner on projects that allow it. Solo is hard.
+
+GRADING:
+- Roughly: 20% homework/lab, 40% projects, 15% midterm 1, 25% final (varies by semester)
+- There is usually a curve. Average exam score is around 65-70%.
+- Attendance is NOT graded in most sections.
+
+RESOURCES:
+- cs61a.org: All course materials, lecture recordings, lab solutions (released after deadline)
+- Piazza/Ed: Active — usually answered within hours
+- Office hours queue (oh.cs61a.org): Can get very long. Go early in the week, not the night before.
+- CSM (Computer Science Mentors): Highly recommended supplemental sections, free, led by experienced students.
+
+COMMON MISTAKES:
+1. Treating it like a high school Python class. It's not.
+2. Starting Scheme on the weekend before it's due. Fatal mistake.
+3. Not using the visualizer (pythontutor.com) when confused about environments.
+4. Skipping labs. Lab content appears on exams.
+5. Not going to office hours early in the semester when lines are short.

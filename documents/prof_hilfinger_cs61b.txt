@@ -1,0 +1,24 @@
+Source: Rate My Professors - Paul Hilfinger, CS61B Data Structures, UC Berkeley
+URL: https://www.ratemyprofessors.com/professor/hilfinger-cs61b
+
+Review 1 (Quality: 4/5, Difficulty: 5/5):
+Hilfinger is a legend. CS61B with him is brutal but you come out knowing data structures cold. His exams are notoriously hard — expect exam averages around 50-60%. The curve is generous though. He does not hold your hand. Office hours are crowded and unhelpful if you haven't already tried the problem yourself for an hour. The projects (especially the Gitlet project) are massive — start at least a week early. Lecture attendance is not taken but going is essential because he explains things in a way the slides don't capture.
+
+Review 2 (Quality: 3/5, Difficulty: 5/5):
+Took this class spring semester. Hilfinger's lectures feel like he's teaching to the top 5% of the room. If you're not already comfortable with Java, the first two weeks will feel like drowning. The autograder is unforgiving — partial credit is almost nonexistent. I found the textbook (CS61B course notes) more helpful than the lectures for actually understanding the material. Exams: midterm 1 is the hardest proportionally. The final is long but manageable if you've done the projects. Recommended to take with a study group.
+
+Review 3 (Quality: 5/5, Difficulty: 5/5):
+Absolute genius professor. His problem sets are designed to make you think, not just execute. The class is structured around four large projects. Project 1 (Deques) is a warmup. Project 2 (Ngordnet) introduces APIs and data manipulation. Project 3 (BYOW — Build Your Own World) is a game engine, pair-programmed. Gitlet (Project 4) is a Git implementation in Java. You will NOT pass Gitlet if you wait until the last minute. Exams never test syntax — always conceptual understanding and edge cases. Best CS class I took at Berkeley.
+
+Review 4 (Quality: 2/5, Difficulty: 5/5):
+Not for the faint of heart. His communication style is dense and assumes background most freshmen don't have. Dropped once, retook with Hug (easier) the second time. If you're deciding between Hilfinger and Hug for 61B, take Hug unless you want maximum difficulty. The material is the same but Hug scaffolds it better. Hilfinger's office hours policy: you must show your work and what you've tried. Staff office hours (TAs and tutors) are actually better.
+
+Review 5 (Quality: 4/5, Difficulty: 5/5):
+Grading breakdown: 40% projects, 20% homework, 15% midterm 1, 25% final (midterm 2 was replaced). Exams are in-person, closed book. The BYOW project is the most fun you'll have all semester — partner project where you build a 2D world generator. Start Gitlet 10 days before the deadline. Hilfinger himself grades nothing — all automated. Discussion sections are mandatory and participation counts for a small part of the grade.
+
+Summary Stats:
+- Average exam score: ~55%
+- Curve: Yes, typically generous
+- Office hours wait: 30-90 minutes during peak
+- Recommended prerequisites: CS61A (mandatory), familiarity with Java helpful
+- Most common advice: Start projects early, form study groups
